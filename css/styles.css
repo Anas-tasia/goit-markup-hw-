@@ -1,0 +1,100 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #f4f7fa;    
+}
+
+.logo-web{
+font-family: Raleway;
+font-size: 18px;
+font-weight: 800;
+line-height: 24px;
+letter-spacing: 3%;
+text-align: left;
+color: #4D5AE5;
+}
+
+.logo-link{
+font-family: Raleway;
+font-size: 18px;
+font-weight: 800;
+line-height: 24px;
+letter-spacing: 3%;
+text-align: left;
+color: #2E2F42;
+}
+
+.navigation-list{
+}  
+
+.navigation-item{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-align: left;    
+}
+
+.address-list{
+} 
+
+.address-item {
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 2%;
+text-align: left;
+}
+
+.main-button{
+    cursor: pointer;
+    height: 48px;
+    width: 116px;
+    left: 93px;
+    border-radius: 4px;
+    padding: 12px 24px 12px 24px;
+    background-color: #404BBF; 
+}
+
+.main-button-text{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.button-item {
+cursor: pointer;
+height: 48px;
+width: 116px;
+left: 93px;
+border-radius: 4px;
+padding: 12px 24px 12px 24px;
+background-color: #F4F4FD;
+}
+
+.button-text{
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 4%;
+text-align: center;
+color: #4D5AE5;
+}
+
+.top-text-item{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-align: left;
+}
+
+.lower-text-item{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 2%;
+text-align: left;
+}
